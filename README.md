@@ -105,3 +105,14 @@ Performance depends on:
 
 ```bash
 python train_fusion.py --dataset cora --model_type gcn
+```
+
+## Acknowledgement
+
+This repository includes an `OpenGT/` directory containing code used in our
+experiments. Credit for the original `OpenGT` implementation belongs to the
+original authors and project maintainers.
+
+Original project:
+
+- https://github.com/eaglelab-zju/OpenGT
