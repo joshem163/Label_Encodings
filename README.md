@@ -1,7 +1,7 @@
 # Label Encodings: Supervision as an Input Channel for Graph Learning
 
 📄 **Paper**: Label Encodings: Supervision as an Input Channel for Graph Learning  
-🔗 **Repository**: https://github.com/joshem163/Label_Encodings  
+
 
 ---
 
